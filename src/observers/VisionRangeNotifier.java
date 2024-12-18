@@ -1,7 +1,7 @@
-package observer;
+package observers;
 
-import factory.Character;
-import mediator.Arena;
+import characterFactory.Character;
+import arenaMediator.Arena;
 
 public class VisionRangeNotifier implements Observer {
     private int visionRadius = 50;

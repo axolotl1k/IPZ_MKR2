@@ -1,4 +1,4 @@
-package factory;
+package characterFactory;
 
 public class WarriorFactory implements CharacterFactory {
     @Override

@@ -1,4 +1,4 @@
-package factory;
+package characterFactory;
 
 public abstract class Character {
     protected String name;

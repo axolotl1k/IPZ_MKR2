@@ -1,4 +1,4 @@
-package factory;
+package characterFactory;
 
 public class ArcherFactory implements CharacterFactory {
     @Override

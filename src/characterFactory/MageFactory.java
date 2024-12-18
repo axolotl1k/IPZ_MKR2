@@ -1,4 +1,4 @@
-package factory;
+package characterFactory;
 
 public class MageFactory implements CharacterFactory {
     @Override
